@@ -14,3 +14,14 @@ https://user-images.githubusercontent.com/88639067/133144575-fcb4d2ee-6f70-45c5-
 | Styrofoam   | Foam block to mold into hand | 2   |
 | Thin Wood Plank| WOOD STRIP 1/8 X 12 X 24IN CRAFT PLYWOOD | 2   |
 | Thin Wood Rod   | WOOD STRIP 1/8 X 1/8 X 24IN BASSWOOD| 1   |
+
+```
+FlexArm_2019
+│   README.md
+│
+└───FlexArm_2019
+│   README.adoc
+│   sketch.json
+│   FlexArm_2019.ino
+
+```
