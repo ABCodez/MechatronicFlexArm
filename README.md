@@ -48,6 +48,9 @@ The following are my desirables:
 
 ![image](https://user-images.githubusercontent.com/88639067/133153808-6f49d95c-423e-40dc-9986-0360bf9bc378.png) 
 
+## Theory of Operation
+
+The way the system operates is as followed. All flex sensors will be mounted to each finger of the glove. When a finger is bent there will be a value that is sent to the Arduino board, Inside the code the setup is made up of where the flex pins, and sensors are attached. The loop part of the code works like so: When the flex sensor is bent it outputs a certain value ranging from 0 to 1023. For an example when the finger is bent the value of the flex sensor is 800, when the finger is at rest, the value of the flex sensor reads 1023. (The most common range for each value was around 800). That value reflects the positioning of the servo motor which are attached to the other side of the Arduino board. The code is setup in a way that when the flex sensor reads a value of 1023, the output of the servo motor will be 0 degrees. If the value of the flex sensor reads anything below 1023, for example 800 where the finger is fully bent, the output of the servo motor will be 180 degrees. Now strings are attached from the fingers of the robotic hand to the servo motors themselves. When the servo motor is at 0 degrees the strings are at rest meaning the fingers won’t contract. When the servo motor is at 180 degrees, the strings will be pulled on allowing movement and the contraction of a finger.
 
 ## BOM
 
