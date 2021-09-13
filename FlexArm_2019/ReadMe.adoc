@@ -45,10 +45,15 @@ To contribute to this project please contact abcodez https://id.arduino.cc/abcod
 Add the bill of the materials you need for this project.
 
 |===
-| ID | Part name      | Part number | Quantity
-| R1 | 10k Resistor   | 1234-abcd   | 10
-| L1 | Red LED        | 2345-asdf   | 5
-| A1 | Arduino Zero   | ABX00066    | 1
+| Part | Description      | Part  | Quantity
+| ELEGOO UNO | 10k Resistor   | 1234-abcd   | 1
+| SG90 MICRO 9G | Project starter kit that includes basic materials for the project such as jumper cables, breadboard, & arduino board   | 1234-abcd   | 1
+| Aluminum Tape | Tape needed to create flex sensors  | 1234-abcd   | 1
+| Clips | Cotter pin 3/32X1 steel     | 2345-asdf   | 5
+| Zip Ties | 10k Resistor   | 1234-abcd   | 1
+| Styrofoam | Foam block to mold into hand   | ABX00066    | 1
+| Thin Wood Plank | WOOD STRIP 1/8 X 12 X 24IN CRAFT PLYWOOD   | ABX00066    | 1
+| Thin Wood Rod | WOOD STRIP 1/8 X 1/8 X 24IN BASSWOOD   | ABX00066    | 1
 |===
 
 
