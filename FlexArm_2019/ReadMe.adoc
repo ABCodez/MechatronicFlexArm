@@ -1,59 +1,35 @@
 :Author: abcodez
-:Email: {AuthorEmail}
-:Date: 10/09/2021
-:Revision: version#
-:License: Public Domain
+:Build Date: 2019/06/13 
+:Revision: No revision as of yet
 
-= Project: {FlexArm}
+= Project: Flex Arm
 
-This project was created in 2019 but is being uploaded to gitHub currently.
-
-== Step 1: Installation
-Please describe the steps to install this project.
-
-For example:
-
-1. Open this file
-2. Edit as you like
-3. Release to the World!
-
-== Step 2: Assemble the circuit
-
-Assemble the circuit following the diagram layout.png attached to the sketch
-
-== Step 3: Load the code
-
-Upload the code contained in this sketch on to your board
+This project was created in 2019 as a final grade 11 computer engineering project.
+By going over various yotube videos concerning servo motors, flex sensors, etc. I was able to create my very own flex sensor controlled mechatronic arm.
+With a budget of just over $100, the mechatronic was controlled by a glove with flex sensors that in turn rotated servo motors.
 
 === Folder structure
 
 ....
- sketch123                => Arduino sketch folder
-  ├── sketch123.ino       => main Arduino file
-  ├── schematics.png      => (optional) an image of the required schematics
-  ├── layout.png          => (optional) an image of the layout
-  └── ReadMe.adoc         => this file
+ FlexArm_2019                => Arduino sketch folder
+  ├── FlexArm_2019.ino       => main Arduino file
+  ├── sketch.json            => sketch file
+  └── ReadMe.adoc            => this file
 ....
 
-=== License
-This project is released under a {License} License.
-
-=== Contributing
-To contribute to this project please contact abcodez https://id.arduino.cc/abcodez
 
 === BOM
-Add the bill of the materials you need for this project.
 
 |===
-| Part | Description      | Part  | Quantity
-| ELEGOO UNO | 10k Resistor   | 1234-abcd   | 1
-| SG90 MICRO 9G | Project starter kit that includes basic materials for the project such as jumper cables, breadboard, & arduino board   | 1234-abcd   | 1
-| Aluminum Tape | Tape needed to create flex sensors  | 1234-abcd   | 1
-| Clips | Cotter pin 3/32X1 steel     | 2345-asdf   | 5
-| Zip Ties | 10k Resistor   | 1234-abcd   | 1
-| Styrofoam | Foam block to mold into hand   | ABX00066    | 1
-| Thin Wood Plank | WOOD STRIP 1/8 X 12 X 24IN CRAFT PLYWOOD   | ABX00066    | 1
-| Thin Wood Rod | WOOD STRIP 1/8 X 1/8 X 24IN BASSWOOD   | ABX00066    | 1
+| Part | Description | Quantity
+| ELEGOO UNO | Project starter kit that includes basic materials for the project such as jumper cables, breadboard, & arduino board   |  1
+| SG90 MICRO 9G | Servos used to pull on strings to move hand    |  1
+| Aluminum Tape | Tape needed to create flex sensors  |  1
+| Clips | Cotter pin 3/32X1 steel     | 40
+| Zip Ties | 10k Resistor   |  5
+| Styrofoam | Foam block to mold into hand   |  2
+| Thin Wood Plank | WOOD STRIP 1/8 X 12 X 24IN CRAFT PLYWOOD   | 2
+| Thin Wood Rod | WOOD STRIP 1/8 X 1/8 X 24IN BASSWOOD   |  1
 |===
 
 
