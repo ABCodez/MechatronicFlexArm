@@ -37,3 +37,14 @@ With a budget of just over $100, the mechatronic was controlled by a glove with 
 This document is written in the _AsciiDoc_ format, a markup language to describe documents.
 If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
 or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
+
+=== References
+
+(n.d.). Retrieved from https://circuitdigest.com/microcontroller-projects/servo-motor-control-by-flex-sensor-using-arduino
+Arduino, M. (2017, January 02). Make a Flex Sensor for Robotic Hand and Arduino | DIY. Retrieved from https://www.youtube.com/watch?v=b7zT94WV-Ek
+Codebender_cc, & Instructables. (2017, October 06). How to Use a Flex Sensor - Arduino Tutorial. Retrieved from https://www.instructables.com/id/How-to-use-a-Flex-Sensor-Arduino-Tutorial/
+Hack Attack Tutorial: Controlling a Servo using a Flex Sensor » Circuit-Help. (2017, February 15). Retrieved from https://circuit-help.com.ph/tutorial-flexing-servo/
+Hack Attack Tutorial: Controlling a Servo using a Flex Sensor » Circuit-Help. (2017, February 15). Retrieved from https://circuit-help.com.ph/tutorial-flexing-servo/
+Official, U. V. (2017, January 20). How to interface flex sensor and servo motor with arduino. Retrieved from https://www.youtube.com/watch?v=MNiN3ye9hvY
+Robojax. (2018, May 22). Control Servo motor with push button with Arduino. Retrieved from https://www.youtube.com/watch?v=7woqNH_qby4
+
