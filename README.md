@@ -5,6 +5,8 @@ This project was created in 2019 as a final grade 11 computer engineering projec
 By going over various yotube videos concerning servo motors, flex sensors, etc. I was able to create my very own flex sensor controlled mechatronic arm.
 With a budget of just over $100, the mechatronic was controlled by a glove with flex sensors that in turn rotated servo motors.
 
+![ArmDemoPicture](https://user-images.githubusercontent.com/88639067/133155089-0cfb7439-4e70-469d-8cf4-0e972cdb5afa.png)
+
 ## Introduction
 
 The system being built is a robotic hand that can be controlled by a user. The main intention of this hand is to be a prosthetic for amputees who have either lost their hand, or were born without one. The system will be controlled by using a glove that the user can wear on their other hand, this glove can then control the robotic hand, the fingers of the hand will retract or extend depending on the user’s movement with the glove. 
