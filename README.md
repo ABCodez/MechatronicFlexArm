@@ -46,7 +46,7 @@ The following are my desirables:
 -	The robotic hand can be controlled via bluetooth module
 -	Try to create a robotic arm with the ability to move elbow as well
 
-## Prelimaniry Designs
+## Preliminary Designs
 
 ![image](https://user-images.githubusercontent.com/88639067/133153808-6f49d95c-423e-40dc-9986-0360bf9bc378.png) 
 
