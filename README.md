@@ -1,4 +1,4 @@
-# MechantronicFlexArm
+# MechatronicFlexArm
 
 ## Overview 
 This project was created in 2019 as a final grade 11 computer engineering project.
